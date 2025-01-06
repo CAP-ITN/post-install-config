@@ -32,7 +32,7 @@ image here
   
 </p>
 <p>
-onfigure Agent and User Panels
+Configure Agent and User Panels
 The Agent Panel is used for managing tickets and handling user inquiries, while the Admin Panel is used for system configuration and administrative tasks.
 
 Configure Roles
